@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;MS-Calls&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../env/work/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../env/work/src/gopkg.in" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../env/work/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../env/work/src/gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
